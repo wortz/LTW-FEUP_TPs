@@ -1,6 +1,6 @@
 # LTW-FEUP_TPs
 
-## Exercices solved during classes for the LTW..
+## Exercices solved during classes of LTW.
 ### Project Infos
 
    * Date: 3rd Year, 1st Semester, 2018/2019
